@@ -8,10 +8,10 @@
 </a>
 
 <br />
+<br />
 
 A **Software Engineering Student** 🚀 from Potsdam, Germany.
 
-<br />
 <br />
 
 **About Me!**
