@@ -6,9 +6,6 @@
 <a href="https://twitter.com/sheesh_mll">
   <img align="left" alt="Sebastian's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
-
-
 
 <br />
 <br />
