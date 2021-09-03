@@ -20,7 +20,7 @@ A **Software Engineering Student** 🚀 from Potsdam, Germany.
 
 - 👨🏽‍💻 I’m currently a Working Student, developing Flutter Apps at DXC Technology.
 - 🌱 Published my First App in 2021. 
-- 🤔 I am a passionate Cook and love to play Golf
+- 🤔 I am a passionate Cook and love to play Golf.
 - 💼 I’m pursuing a Bachelor's degree in Coding & Software Engineering at XU University in Potsdam.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [sebmueller1999@gmail.com](mailto:sebmueller1999@gmail.com).
