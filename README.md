@@ -1,5 +1,7 @@
 <h3 title="hehehe"> Hey 👋, I'm Sebastian!</h3>
 
+<br />
+
 <a href="https://www.linkedin.com/in/sebastian-mueller-799680210/">
   <img align="left" alt="Sebastian's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
