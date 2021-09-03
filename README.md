@@ -7,9 +7,6 @@
   <img align="left" alt="Sebastian's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<br />
-<br />
-
 A **Software Engineering Student** 🚀 from Potsdam, Germany.
 
 <br />
