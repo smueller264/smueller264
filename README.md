@@ -18,7 +18,6 @@ A **Software Engineering Student** 🚀 from Potsdam, Germany.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Working Student, developing Flutter Apps at DXC Technology.
 - 🌱 Published my First App in 2021. 
 - 🤔 I am a passionate Cook and love to play Golf.
 - 💼 I’m pursuing a Bachelor's degree in Coding & Software Engineering at XU University in Potsdam.
